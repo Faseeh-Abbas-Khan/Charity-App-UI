@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1070868937636",
+    "project_id": "dono-groups",
+    "storage_bucket": "dono-groups.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070868937636:android:6d0922371b27e76a929f31",
+        "android_client_info": {
+          "package_name": "com.charity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070868937636-m1tretpl1h0mbalce87gnu88r3miq1vk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ9DsiS7j9IvYjDEN9Yler1uqz4kAO3yA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070868937636-m1tretpl1h0mbalce87gnu88r3miq1vk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
